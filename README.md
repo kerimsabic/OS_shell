@@ -73,3 +73,14 @@ int main(int argc, char *argv[]) {
 
     return 0;
 }
+
+
+
+
+
+ printf(" ---------------\n");
+	    printf("        \\   ^__^\n");
+	    printf("         \\  (oo)\\_______\n");
+	    printf("            (__)\\       )\\/\\\n");
+	    printf("                ||----w |\n");
+	    printf("                ||     ||\n");
